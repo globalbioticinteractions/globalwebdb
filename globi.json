@@ -1,6 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "format": "globalweb",
+  "format": "globalwebdb",
   "citation": "Global Web Database (http://globalwebdb.com): an online collection of food webs. Accessed via https://www.globalwebdb.com/Service/DownloadArchive on 2017-10-12.",
   "resources": {
     "https://www.globalwebdb.com/Service/DownloadArchive" : "globalwebdb.zip"
