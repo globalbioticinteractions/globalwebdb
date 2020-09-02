@@ -1,7 +1,7 @@
 # Global Web Database
 GlobalWeb (https://globalwebdb.com): An online collection of food webs. 2012. University of Canberra, Australia.
 
-[![Build Status](https://travis-ci.org/globalbioticinteractions/globalwebdb.svg?branch=v0.1.0)](https://travis-ci.org/globalbioticinteractions/globalwebdb) [![DOI](https://zenodo.org/badge/106755058.svg)](https://zenodo.org/badge/latestdoi/106755058) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/globalwebdb)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/globalwebdb) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/globalwebdb.svg?branch=v0.1.0)](https://travis-ci.com/globalbioticinteractions/globalwebdb) [![DOI](https://zenodo.org/badge/106755058.svg)](https://zenodo.org/badge/latestdoi/106755058) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/globalwebdb)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/globalwebdb) 
 
 # Files
 
